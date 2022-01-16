@@ -2,3 +2,5 @@ sum
 divide
 multiply
 subtract
+equal
+save
